@@ -1,0 +1,26 @@
+{
+  "name": "visualcaptcha.vanilla",
+  "version": "0.0.8",
+  "description": "visualCaptcha frontend vanilla js files, for the vanilla/default npm package",
+  "main": "visualcaptcha.vanilla.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodograumann/visualCaptcha-frontend-vanilla.git"
+  },
+  "keywords": [
+    "captcha",
+    "visualcaptcha",
+    "security",
+    "javascript",
+    "library"
+  ],
+  "author": "emotionLoop <hello@emotionloop.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bodograumann/visualCaptcha-frontend-vanilla/issues"
+  },
+  "homepage": "https://github.com/bodograumann/visualCaptcha-frontend-vanilla#readme"
+}
